@@ -1,7 +1,7 @@
 # Proxy Filter
 
 **Версия:** 1.1.0  
-*Актуальная версия: подробности изменений смотрите в [CHANGELOG.md](https://github.com/RynelHub/proxy-filter/blob/main/CHANGELOG.md).*
+*[Актуальная версия](https://github.com/RynelHub/proxy-filter/releases/latest): подробности изменений смотрите в [CHANGELOG.md](https://github.com/RynelHub/proxy-filter/blob/main/CHANGELOG.md).*
 
 ---
 
