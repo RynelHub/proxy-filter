@@ -1,6 +1,6 @@
 # Proxy Filter
 
-**Актуальная версия:** 1.1.0  
+**Актуальная версия:** 1.2.0  
 *[Скачайте актуальную версию здесь](https://github.com/RynelHub/proxy-filter/releases/latest)*
 
 *Подробности изменений смотрите в [CHANGELOG.md](https://github.com/RynelHub/proxy-filter/blob/main/CHANGELOG.md)*
