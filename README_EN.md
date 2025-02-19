@@ -17,11 +17,11 @@
 
 ## 📤 Output
 - Text files containing **VLESS/Trojan** links, filtered by **TLS/Reality** and port **443**.
-- Splits output into convenient parts for easy client import.
+- Splits output text files into convenient parts for easy clients app import.
 
 ## 🛠 Features
 - Supports filtering by **country codes** and **domains**.
-- Processes several hundred subscriptions in **10-15 minutes**.
+- Processes several hundred subscriptions in **minutes**.
 
 ---
 
