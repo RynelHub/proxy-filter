@@ -7,7 +7,10 @@
 
 ---
 
-**Proxy Filter** is a powerful tool for automating the processing, filtering, and conversion of proxy server configurations using VLESS and Trojan protocols, with support for Clash (YAML) and V2Ray (base64/plain text) formats.
+**Proxy Filter** – A Windows tool for **bulk filtering** and conversion of VLESS and Trojan subscriptions.
+**Input**: Subscription URLs in Clash (YAML) and V2Ray (Base64/plain text) formats.
+**Output**: Text files containing VLESS/Trojan links filtered by TLS/Reality and port 443.
+Supports **filtering by country codes**.
 
 ---
 
