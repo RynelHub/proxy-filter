@@ -7,10 +7,18 @@
 
 ---
 
-**Proxy Filter** – A Windows tool for **bulk filtering** and conversion of VLESS and Trojan subscriptions.
-**Input**: Subscription URLs in Clash (YAML) and V2Ray (Base64/plain text) formats.
-**Output**: Text files containing VLESS/Trojan links filtered by TLS/Reality and port 443.
-Supports **filtering by country codes**.
+**Proxy Filter** – A Windows utility for bulk filtering and conversion of **VLESS** and **Trojan** subscriptions.
+
+## 📥 Input
+- Subscription URLs in **Clash (YAML)** and **V2Ray (Base64/plain text)** formats.
+
+## 📤 Output
+- Text files containing **VLESS/Trojan** links, filtered by **TLS/Reality** and port **443**.
+- Splits output into convenient parts for easy client import.
+
+## 🛠 Features
+- Supports filtering by **country codes** and **domains**.
+- Processes several hundred subscriptions in **10-15 minutes**.
 
 ---
 
