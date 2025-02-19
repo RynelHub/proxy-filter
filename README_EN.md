@@ -1,6 +1,6 @@
 # Proxy Filter                              
 
-**[Версия на русском](https://github.com/RynelHub/proxy-filter/blob/main/README.md)**      
+**[Русская версия](https://github.com/RynelHub/proxy-filter/blob/main/README.md)**      
 **[中文版](https://github.com/RynelHub/proxy-filter/blob/main/README_CN.md)**
 
 **Current Version:** 1.2.0  
