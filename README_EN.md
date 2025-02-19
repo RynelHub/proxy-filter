@@ -178,7 +178,7 @@ Each output file will contain no more than **N** lines of configurations, based 
 - The program does **not check** server availability. Use external tools for this.
 
 ### Proxy Usage
-- The program **does not support** system proxies. Please disable them before use.
+- The program **supports** working through the system proxy. However, unstable/unavailable proxy may negatively affect downloading of subscription files. To avoid possible download problems, disable the system proxy before using the program.
 
 ---
 
