@@ -199,11 +199,11 @@ If issues persist, submit an **[Issue](https://github.com/RynelHub/proxy-filter/
 
 **Proxy Filter** is a non-commercial project, free for use, and developed with the author's passion.
 
-If you enjoy this project, support it!
+If you enjoy this project, support it with a Star!
 
 ---
 
-### [💰 Support Proxy Filter](https://rynelhub.github.io/donations/)
+### [💰 Also support Proxy Filter with $ here](https://rynelhub.github.io/donations/)
 
 ---
 
