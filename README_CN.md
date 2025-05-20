@@ -3,7 +3,7 @@
 **[English version](https://github.com/RynelHub/proxy-filter/blob/main/README_EN.md)**  
 **[Русская версия](https://github.com/RynelHub/proxy-filter/blob/main/README.md)**  
 
-**当前版本:** 1.2.0  
+**当前版本:** 1.2.1  
 *[在此下载最新版本](https://github.com/RynelHub/proxy-filter/releases/latest)*  
 
 *详细更新内容请查看 [CHANGELOG.md](https://github.com/RynelHub/proxy-filter/blob/main/CHANGELOG.md)*  
