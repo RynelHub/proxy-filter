@@ -27,6 +27,7 @@
 **Дополнительно** необходимо скачать две базы данных для корректного определения географической принадлежности обрабатываемых конфигураций (для скачивания этих баз данных требуется **бесплатная регистрация** на сайте Maxmind.com по ссылке https://www.maxmind.com/en/geolite2/signup):
 - https://download.maxmind.com/geoip/databases/GeoLite2-ASN/download?suffix=tar.gz
 - https://download.maxmind.com/geoip/databases/GeoLite2-Country/download?suffix=tar.gz
+
 Указанные базы данных рекомендуется регулярно обновлять для получения более релевантных результатов фильтрации.
 
 Proxy Filter ожидает, что гео-базы будут доступны по двум следующим путям внутри папки программы:
