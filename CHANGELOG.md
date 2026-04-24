@@ -4,6 +4,11 @@
 Формат соответствует [Keep a Changelog](https://keepachangelog.com/), а версии следуют [Semantic Versioning](https://semver.org/).
 
 
+## [2.0.0] - 2026-04-24
+Updates in progress...
+
+
+
 ## [1.2.1] - 2025-05-20
 
 ### Fixed
