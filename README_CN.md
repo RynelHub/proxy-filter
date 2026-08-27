@@ -1,7 +1,6 @@
 # Proxy Filter for Windows (代理過濾器)
 
-**[English version](https://github.com/RynelHub/proxy-filter/blob/main/README_EN.md)**
-
+**[English version](https://github.com/RynelHub/proxy-filter/blob/main/README_EN.md)**    
 **[Русская версия](https://github.com/RynelHub/proxy-filter/blob/main/README.md)**
 
 **当前版本：** 2.1.0
