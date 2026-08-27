@@ -181,9 +181,8 @@ Proxy Filter 运行结束后，会在 `output` 文件夹中生成文本文件，
 ---
 
 ## 10. ☕️ 支持本项目
-
 朋友们，**Proxy Filter** 是一个非商业项目。这意味着该发行版完全免费提供，其开发完全出于作者的热情。
-
 如果您喜欢这个项目，请为它点一个 **star** 以示支持！
-
 您的支持将激励并帮助该项目（及作者）不断发展。
+**感谢您使用 Proxy Filter！**
+### [💰 您可以在这里对 **Proxy Filter** 提供资金支持](https://rynelhub.github.io/donations/)。
